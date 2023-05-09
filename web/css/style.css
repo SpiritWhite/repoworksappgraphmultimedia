@@ -1,0 +1,28 @@
+.img-bg {
+    background-image: url('../images/layer-01.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    height: calc(100vh - 20vh);
+}
+
+.title {
+    padding-top: calc(100vh - 50vh);
+    font-size: 40px;
+}
+
+.bg-section {
+    background-color: #337529;
+    height: calc(100vh - 40vh);
+}
+
+.title-search {
+    padding-top: 15px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.input-text {
+    padding: 20px;
+    width: calc(100vw - 30vw);
+}
